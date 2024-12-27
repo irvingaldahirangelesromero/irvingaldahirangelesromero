@@ -1,12 +1,8 @@
   # Welcome to github by Irving Aldahir 
-
-I am a student specializing in Multiplatform Software Development. My passion for software development drives me to design innovative solutions, implement efficient design patterns, create engaging user interfaces, and analyze challenges to solve them creatively using robust data structures. In this space, I share projects that I have had the opportunity to lead or actively collaborate on, working alongside teams of peers and professors to achieve common goals with high-quality results. Each project reflects my dedication to continuous learning, my commitment to excellence, and my enthusiasm for creating software that makes a difference.
-
 ![Banner de Irving](src/CC_2022-06-18_193-Pano_(cropped)_01.jpg)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvingaldahirangelesromero/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aldahir_rom/)
-
+I am a student specializing in Multiplatform Software Development. My passion for software development drives me to design innovative solutions, implement efficient design patterns, create engaging user interfaces, and analyze challenges to solve them creatively using robust data structures. In this space, I share projects that I have had the opportunity to lead or actively collaborate on, working alongside teams of peers and professors to achieve common goals with high-quality results. Each project reflects my dedication to continuous learning, my commitment to excellence, and my enthusiasm for creating software that makes a difference.
 ### Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
